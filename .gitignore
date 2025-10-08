@@ -1,0 +1,14 @@
+# Archivos compilados
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Otros
+*.tmp
+.DS_Store
+Thumbs.db
